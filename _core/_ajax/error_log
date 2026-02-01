@@ -1,0 +1,87 @@
+[07-Dec-2022 14:17:44 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 3
+[07-Dec-2022 14:17:44 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 130
+[07-Dec-2022 14:17:44 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 130
+[07-Dec-2022 14:17:44 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 130
+[07-Dec-2022 14:17:44 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 137
+[07-Dec-2022 14:17:44 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 139
+[07-Dec-2022 14:17:44 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 139
+[07-Dec-2022 14:17:44 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 139
+[07-Dec-2022 14:20:46 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 3
+[07-Dec-2022 14:20:46 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 130
+[07-Dec-2022 14:20:46 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 130
+[07-Dec-2022 14:20:46 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 130
+[07-Dec-2022 14:20:46 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 137
+[07-Dec-2022 14:20:46 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 139
+[07-Dec-2022 14:20:46 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 139
+[07-Dec-2022 14:20:46 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 139
+[07-Dec-2022 16:07:34 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 3
+[07-Dec-2022 16:07:34 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 130
+[07-Dec-2022 16:07:34 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 130
+[07-Dec-2022 16:07:34 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 130
+[07-Dec-2022 16:07:34 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 137
+[07-Dec-2022 16:07:34 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 139
+[07-Dec-2022 16:07:34 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 139
+[07-Dec-2022 16:07:34 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 139
+[26-Jan-2023 13:34:54 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 3
+[26-Jan-2023 13:34:54 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 129
+[26-Jan-2023 13:34:54 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 129
+[26-Jan-2023 13:34:54 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 129
+[26-Jan-2023 13:34:54 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 138
+[26-Jan-2023 13:34:54 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 138
+[26-Jan-2023 13:34:54 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 138
+[26-Jan-2023 13:34:54 America/Sao_Paulo] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 43
+[26-Jan-2023 13:34:54 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 44
+[26-Jan-2023 13:34:54 America/Sao_Paulo] PHP Notice:  Undefined index: rel_lojas_id in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 119
+[26-Jan-2023 13:34:58 America/Sao_Paulo] PHP Notice:  Undefined index: metodo in /home1/veloximportscom/public_html/_core/_ajax/check_subdominio_actual.php on line 7
+[26-Jan-2023 13:35:09 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 3
+[26-Jan-2023 13:35:09 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 129
+[26-Jan-2023 13:35:09 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 129
+[26-Jan-2023 13:35:09 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 129
+[26-Jan-2023 13:35:09 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 138
+[26-Jan-2023 13:35:09 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 138
+[26-Jan-2023 13:35:09 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 138
+[26-Jan-2023 13:35:09 America/Sao_Paulo] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 43
+[26-Jan-2023 13:35:09 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 44
+[26-Jan-2023 13:35:09 America/Sao_Paulo] PHP Notice:  Undefined index: rel_lojas_id in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 119
+[26-Jan-2023 13:35:11 America/Sao_Paulo] PHP Notice:  Undefined index: metodo in /home1/veloximportscom/public_html/_core/_ajax/check_subdominio_actual.php on line 7
+[26-Jan-2023 13:36:05 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 3
+[26-Jan-2023 13:36:05 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 129
+[26-Jan-2023 13:36:05 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 129
+[26-Jan-2023 13:36:05 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 129
+[26-Jan-2023 13:36:05 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 138
+[26-Jan-2023 13:36:05 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 138
+[26-Jan-2023 13:36:05 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 138
+[26-Jan-2023 13:36:05 America/Sao_Paulo] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 43
+[26-Jan-2023 13:36:05 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 44
+[26-Jan-2023 13:36:05 America/Sao_Paulo] PHP Notice:  Undefined index: rel_lojas_id in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 119
+[26-Jan-2023 13:36:14 America/Sao_Paulo] PHP Notice:  Undefined index: metodo in /home1/veloximportscom/public_html/_core/_ajax/check_subdominio_actual.php on line 7
+[26-Jan-2023 13:42:53 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 3
+[26-Jan-2023 13:42:53 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 128
+[26-Jan-2023 13:42:53 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 128
+[26-Jan-2023 13:42:53 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 128
+[26-Jan-2023 13:42:53 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 137
+[26-Jan-2023 13:42:53 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 137
+[26-Jan-2023 13:42:53 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 137
+[26-Jan-2023 13:42:53 America/Sao_Paulo] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 43
+[26-Jan-2023 13:42:53 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 44
+[26-Jan-2023 13:42:53 America/Sao_Paulo] PHP Notice:  Undefined index: rel_lojas_id in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 119
+[26-Jan-2023 13:42:59 America/Sao_Paulo] PHP Notice:  Undefined index: metodo in /home1/veloximportscom/public_html/_core/_ajax/check_subdominio_actual.php on line 7
+[26-Jan-2023 13:43:21 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 3
+[26-Jan-2023 13:43:21 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[26-Jan-2023 13:43:21 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[26-Jan-2023 13:43:21 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[26-Jan-2023 13:43:21 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[26-Jan-2023 13:43:21 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[26-Jan-2023 13:43:21 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[26-Jan-2023 13:43:21 America/Sao_Paulo] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 43
+[26-Jan-2023 13:43:21 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 44
+[26-Jan-2023 13:43:21 America/Sao_Paulo] PHP Notice:  Undefined index: rel_lojas_id in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 119
+[26-Jan-2023 13:43:22 America/Sao_Paulo] PHP Notice:  Undefined index: metodo in /home1/veloximportscom/public_html/_core/_ajax/check_subdominio_actual.php on line 7
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 3
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 134
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined variable: _SESSION in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136

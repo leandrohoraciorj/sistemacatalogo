@@ -1,0 +1,14 @@
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: busca in /home1/veloximportscom/public_html/painel/_layout/sidebars.php on line 20
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: estabelecimento_id in /home1/veloximportscom/public_html/painel/frete/index.php on line 26
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: nome in /home1/veloximportscom/public_html/painel/frete/index.php on line 27
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: visible in /home1/veloximportscom/public_html/painel/frete/index.php on line 28
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: status in /home1/veloximportscom/public_html/painel/frete/index.php on line 29
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: pagina in /home1/veloximportscom/public_html/painel/frete/index.php on line 42
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Undefined variable: query in /home1/veloximportscom/public_html/painel/frete/index.php on line 47
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/frete/index.php on line 81
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/frete/index.php on line 87
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: filtered in /home1/veloximportscom/public_html/painel/frete/index.php on line 135
+[04-May-2023 14:10:23 America/Sao_Paulo] PHP Notice:  Undefined index: filtered in /home1/veloximportscom/public_html/painel/frete/index.php on line 158

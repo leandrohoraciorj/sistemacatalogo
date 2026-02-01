@@ -1,0 +1,139 @@
+[13-Oct-2023 23:28:27 America/Fortaleza] PHP Warning:  include(../../../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:28:27 America/Fortaleza] PHP Warning:  include(../../../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:28:27 America/Fortaleza] PHP Warning:  include(): Failed opening '../../../_core/_includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:28:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function restrict_estabelecimento() in /home1/veloximportscom/public_html/painel/notificao/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 5
+[13-Oct-2023 23:29:25 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home1/veloximportscom/public_html/painel/notificao/index.php on line 350
+[13-Oct-2023 23:29:56 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home1/veloximportscom/public_html/painel/notificao/index.php on line 209
+[13-Oct-2023 23:33:27 America/Fortaleza] PHP Warning:  include(../../../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:27 America/Fortaleza] PHP Warning:  include(../../../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:27 America/Fortaleza] PHP Warning:  include(): Failed opening '../../../_core/_includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function restrict_estabelecimento() in /home1/veloximportscom/public_html/painel/notificao/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 5
+[13-Oct-2023 23:33:41 America/Fortaleza] PHP Warning:  include(../../../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:41 America/Fortaleza] PHP Warning:  include(../../../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:41 America/Fortaleza] PHP Warning:  include(): Failed opening '../../../_core/_includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function restrict_expirado() in /home1/veloximportscom/public_html/painel/notificao/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 6
+[13-Oct-2023 23:33:47 America/Fortaleza] PHP Warning:  include(../../../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:47 America/Fortaleza] PHP Warning:  include(../../../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:47 America/Fortaleza] PHP Warning:  include(): Failed opening '../../../_core/_includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function restrict_expirado() in /home1/veloximportscom/public_html/painel/notificao/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 6
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(../../../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(../../../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(): Failed opening '../../../_core/_includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(../../_layout/head.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 12
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(../../_layout/head.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 12
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(): Failed opening '../../_layout/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 12
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(../../_layout/top.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 13
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(../../_layout/top.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 13
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(): Failed opening '../../_layout/top.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 13
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(../../_layout/sidebars.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 14
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(../../_layout/sidebars.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 14
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(): Failed opening '../../_layout/sidebars.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 14
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(../../_layout/modal.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 15
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(../../_layout/modal.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 15
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Warning:  include(): Failed opening '../../_layout/modal.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 15
+[13-Oct-2023 23:33:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function panel_url() in /home1/veloximportscom/public_html/painel/notificao/index.php:106
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 106
+[13-Oct-2023 23:34:24 America/Fortaleza] PHP Warning:  include(/../../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:34:24 America/Fortaleza] PHP Warning:  include(): Failed opening '/../../_core/_includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:34:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function restrict_estabelecimento() in /home1/veloximportscom/public_html/painel/notificao/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 5
+[13-Oct-2023 23:45:16 America/Fortaleza] PHP Warning:  include(../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:45:16 America/Fortaleza] PHP Warning:  include(../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:45:16 America/Fortaleza] PHP Warning:  include(): Failed opening '../_core/_includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:45:16 America/Fortaleza] PHP Warning:  include(../_core/_includes/functions/user.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 4
+[13-Oct-2023 23:45:16 America/Fortaleza] PHP Warning:  include(../_core/_includes/functions/user.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 4
+[13-Oct-2023 23:45:16 America/Fortaleza] PHP Warning:  include(): Failed opening '../_core/_includes/functions/user.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 4
+[13-Oct-2023 23:45:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function restrict_estabelecimento() in /home1/veloximportscom/public_html/painel/notificao/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 6
+[13-Oct-2023 23:45:23 America/Fortaleza] PHP Warning:  include(../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:45:23 America/Fortaleza] PHP Warning:  include(../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:45:23 America/Fortaleza] PHP Warning:  include(): Failed opening '../_core/_includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:45:23 America/Fortaleza] PHP Warning:  include(../_core/_includes/functions/user.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 4
+[13-Oct-2023 23:45:23 America/Fortaleza] PHP Warning:  include(../_core/_includes/functions/user.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 4
+[13-Oct-2023 23:45:23 America/Fortaleza] PHP Warning:  include(): Failed opening '../_core/_includes/functions/user.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 4
+[13-Oct-2023 23:45:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function restrict_estabelecimento() in /home1/veloximportscom/public_html/painel/notificao/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 6
+[13-Oct-2023 23:45:46 America/Fortaleza] PHP Warning:  include(../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:45:46 America/Fortaleza] PHP Warning:  include(../_core/_includes/config.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:45:46 America/Fortaleza] PHP Warning:  include(): Failed opening '../_core/_includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 3
+[13-Oct-2023 23:45:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function restrict_estabelecimento() in /home1/veloximportscom/public_html/painel/notificao/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 5
+[25-Oct-2023 03:12:46 America/Fortaleza] PHP Warning:  include(./push.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 10
+[25-Oct-2023 03:12:47 America/Fortaleza] PHP Warning:  include(./push.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 10
+[25-Oct-2023 03:12:47 America/Fortaleza] PHP Warning:  include(): Failed opening './push.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 10
+[25-Oct-2023 03:13:05 America/Fortaleza] PHP Warning:  include(/push.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 10
+[25-Oct-2023 03:13:05 America/Fortaleza] PHP Warning:  include(): Failed opening '/push.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 10
+[25-Oct-2023 03:13:30 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/push.php on line 2
+[25-Oct-2023 03:14:06 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/push.php on line 2
+[25-Oct-2023 03:14:34 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/push.php on line 2
+[25-Oct-2023 03:14:36 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/push.php on line 2
+[25-Oct-2023 03:16:44 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/push.php on line 2
+[25-Oct-2023 03:16:45 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/push.php on line 2
+[25-Oct-2023 03:17:02 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/push.php on line 2
+[25-Oct-2023 03:17:06 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/push.php on line 2
+[25-Oct-2023 03:17:25 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/push.php on line 2
+[25-Oct-2023 03:17:28 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/veloximportscom/public_html/push.php on line 2
+[25-Oct-2023 03:23:35 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/veloximportscom/public_html/painel/notificao/index.php on line 29
+[25-Oct-2023 03:23:35 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/veloximportscom/public_html/painel/notificao/index.php on line 30
+[25-Oct-2023 03:23:55 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/veloximportscom/public_html/painel/notificao/index.php on line 29
+[25-Oct-2023 03:23:55 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/veloximportscom/public_html/painel/notificao/index.php on line 30
+[25-Oct-2023 03:24:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function enviaNotificacao() in /home1/veloximportscom/public_html/painel/notificao/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 20
+[25-Oct-2023 03:32:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function enviaNotificacao() in /home1/veloximportscom/public_html/painel/notificao/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 18
+[25-Oct-2023 03:34:17 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/veloximportscom/public_html/painel/notificao/index.php on line 29
+[25-Oct-2023 03:34:17 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/veloximportscom/public_html/painel/notificao/index.php on line 30
+[25-Oct-2023 03:34:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function enviaNotificacao() in /home1/veloximportscom/public_html/painel/notificao/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/painel/notificao/index.php on line 20
+[25-Oct-2023 03:36:03 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Minishlink\WebPush\Subscription::__construct() must be of the type string or null, array given, called in /home1/veloximportscom/public_html/web-push/vendor/minishlink/web-push/src/Subscription.php on line 73 and defined in /home1/veloximportscom/public_html/web-push/vendor/minishlink/web-push/src/Subscription.php:39
+Stack trace:
+#0 /home1/veloximportscom/public_html/web-push/vendor/minishlink/web-push/src/Subscription.php(73): Minishlink\WebPush\Subscription->__construct('https://fcm.goo...', 'BOp9npiBXwQesmm...', Array, 'aesgcm')
+#1 /home1/veloximportscom/public_html/painel/notificao/index.php(35): Minishlink\WebPush\Subscription::create(Array)
+#2 /home1/veloximportscom/public_html/painel/notificao/index.php(61): enviaNotificacao('fd', 'fdfd', 'fdfd', 'BOp9npiBXwQesmm...', Array, 'https://fcm.goo...')
+#3 {main}
+  thrown in /home1/veloximportscom/public_html/web-push/vendor/minishlink/web-push/src/Subscription.php on line 39
+[25-Oct-2023 03:41:05 America/Fortaleza] PHP Fatal error:  Uncaught ErrorException: Subscription should have a content encoding in /home1/veloximportscom/public_html/web-push/vendor/minishlink/web-push/src/WebPush.php:120
+Stack trace:
+#0 /home1/veloximportscom/public_html/painel/notificao/index.php(39): Minishlink\WebPush\WebPush->queueNotification(Object(Minishlink\WebPush\Subscription), '{"title":"fd","...')
+#1 /home1/veloximportscom/public_html/painel/notificao/index.php(61): enviaNotificacao('fd', 'fdfd', 'fdfd', 'BOp9npiBXwQesmm...', Array, 'https://fcm.goo...')
+#2 {main}
+  thrown in /home1/veloximportscom/public_html/web-push/vendor/minishlink/web-push/src/WebPush.php on line 120
+[25-Oct-2023 03:43:28 America/Fortaleza] PHP Warning:  require(includes/database.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 6
+[25-Oct-2023 03:43:28 America/Fortaleza] PHP Warning:  require(includes/database.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/painel/notificao/index.php on line 6
+[25-Oct-2023 03:43:28 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'includes/database.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/painel/notificao/index.php on line 6
+[25-Oct-2023 03:44:19 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Minishlink\WebPush\Subscription::__construct() must be of the type string or null, array given, called in /home1/veloximportscom/public_html/web-push/vendor/minishlink/web-push/src/Subscription.php on line 73 and defined in /home1/veloximportscom/public_html/web-push/vendor/minishlink/web-push/src/Subscription.php:39
+Stack trace:
+#0 /home1/veloximportscom/public_html/web-push/vendor/minishlink/web-push/src/Subscription.php(73): Minishlink\WebPush\Subscription->__construct('https://fcm.goo...', 'BOp9npiBXwQesmm...', Array, 'aesgcm')
+#1 /home1/veloximportscom/public_html/painel/notificao/index.php(35): Minishlink\WebPush\Subscription::create(Array)
+#2 /home1/veloximportscom/public_html/painel/notificao/index.php(61): enviaNotificacao('fdfd', 'ggf', 'fdfdfd', 'BOp9npiBXwQesmm...', Array, 'https://fcm.goo...')
+#3 {main}
+  thrown in /home1/veloximportscom/public_html/web-push/vendor/minishlink/web-push/src/Subscription.php on line 39
+[25-Oct-2023 03:56:03 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/veloximportscom/public_html/painel/notificao/index.php on line 91

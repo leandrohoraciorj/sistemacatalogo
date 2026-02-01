@@ -1,0 +1,2 @@
+[22-May-2023 18:57:37 America/Fortaleza] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home4/ssapps85/public_html/_core/_includes/functions/mercadopago/vendor/mercadopago/dx-php/samples/index.php on line 3
+[22-May-2023 18:57:37 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ssapps85/public_html/_core/_includes/functions/mercadopago/vendor/mercadopago/dx-php/samples/index.php on line 3

@@ -1,0 +1,142 @@
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 134
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: busca in /home1/veloximportscom/public_html/painel/_layout/sidebars.php on line 20
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: estabelecimento_id in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 25
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: numero in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 26
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: nome in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 27
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: status in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 28
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: pagina in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 41
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined variable: query in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 46
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 76
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 82
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 88
+[20-Sep-2023 19:12:35 America/Sao_Paulo] PHP Notice:  Undefined index: voucher in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 211
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: busca in /home1/veloximportscom/public_html/painel/_layout/sidebars.php on line 20
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: estabelecimento_id in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 25
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: numero in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 26
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: nome in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 27
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: status in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 28
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: pagina in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 41
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined variable: query in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 46
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 76
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 82
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 88
+[20-Sep-2023 19:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: voucher in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 211
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined index: busca in /home1/veloximportscom/public_html/painel/_layout/sidebars.php on line 20
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined index: estabelecimento_id in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 25
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined index: numero in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 26
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined index: nome in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 27
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined index: status in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 28
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined index: pagina in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 41
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined variable: query in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 46
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 76
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 82
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 88
+[20-Sep-2023 19:12:46 America/Sao_Paulo] PHP Notice:  Undefined index: voucher in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 211
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined index: busca in /home1/veloximportscom/public_html/painel/_layout/sidebars.php on line 20
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 606
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 450
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 486
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 487
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined variable: newimage in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 513
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined index: estabelecimento_id in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 25
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined index: numero in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 26
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined index: nome in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 27
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined index: status in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 28
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined index: pagina in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 41
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined variable: query in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 46
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 76
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 82
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 88
+[20-Sep-2023 19:12:49 America/Sao_Paulo] PHP Notice:  Undefined index: voucher in /home1/veloximportscom/public_html/painel/plano/listar/index.php on line 211

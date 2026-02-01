@@ -1,0 +1,112 @@
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 134
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Warning:  session_id(): Cannot change session id when session is active in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 5
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Undefined index: eid in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 6
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 7
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 8
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 9
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Undefined index: quantidade in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 10
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Undefined index: observacoes in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 11
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Undefined index: variacao in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 12
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  Undefined index: numero_mesa in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 30
+[01-Mar-2023 19:04:39 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 481
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 134
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Warning:  session_id(): Cannot change session id when session is active in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 5
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: eid in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 6
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 7
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 8
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 9
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: quantidade in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 10
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: observacoes in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 11
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: variacao in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 12
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 19
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: cidade in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 20
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: forma_pagamento in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 27
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  Undefined index: numero_mesa in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 30
+[01-Mar-2023 19:07:23 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 481
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 134
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Warning:  session_id(): Cannot change session id when session is active in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 5
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Undefined index: eid in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 6
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 7
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 8
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 9
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Undefined index: quantidade in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 10
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Undefined index: observacoes in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 11
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Undefined index: variacao in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 12
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  Undefined index: numero_mesa in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 30
+[01-Mar-2023 19:07:44 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 481
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 134
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Warning:  session_id(): Cannot change session id when session is active in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 5
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: eid in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 6
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 7
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 8
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 9
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: quantidade in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 10
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: observacoes in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 11
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: variacao in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 12
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: estado in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 19
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: cidade in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 20
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: forma_pagamento in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 27
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  Undefined index: numero_mesa in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 30
+[01-Mar-2023 19:08:02 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 481
+[20-Jun-2023 15:50:30 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 361
+[20-Jun-2023 15:50:30 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 361
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 134
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Warning:  session_id(): Cannot change session id when session is active in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 5
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 24
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 25
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 26
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: quantidade in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 27
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined variable: observacoes in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 29
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: variacao in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 31
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: qtdvariacao in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 32
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: usarpontos in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 36
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: observacoes in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 52
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/data.php on line 431
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined variable: dados in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 339
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 339
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined variable: valor in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 340
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined variable: valor in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 344
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 497
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 127
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: keepalive in /home1/veloximportscom/public_html/_core/_includes/config.php on line 134
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/config.php on line 136
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Warning:  session_id(): Cannot change session id when session is active in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 5
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 24
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: produto in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 25
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: data in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 26
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: quantidade in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 27
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined variable: observacoes in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 29
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: variacao in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 31
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: qtdvariacao in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 32
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: usarpontos in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 36
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined index: observacoes in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 52
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/data.php on line 431
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined variable: dados in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 339
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 339
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined variable: valor in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 340
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  Undefined variable: valor in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 344
+[25-Oct-2023 15:02:26 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/veloximportscom/public_html/_core/_includes/functions/user.php on line 497
+[25-Oct-2023 15:39:42 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 365
+[25-Oct-2023 15:39:42 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home1/veloximportscom/public_html/app/estabelecimento/_ajax/sacola.php on line 365

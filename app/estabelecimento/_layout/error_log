@@ -1,0 +1,8 @@
+[25-Oct-2023 08:57:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function data_info() in /home1/veloximportscom/public_html/app/estabelecimento/_layout/top2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/app/estabelecimento/_layout/top2.php on line 36
+[25-Oct-2023 08:58:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function data_info() in /home1/veloximportscom/public_html/app/estabelecimento/_layout/top.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/app/estabelecimento/_layout/top.php on line 36

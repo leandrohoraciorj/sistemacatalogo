@@ -1,0 +1,6 @@
+[13-Jun-2023 15:29:17 America/Fortaleza] PHP Warning:  include(/_layout/define.php): failed to open stream: No such file or directory in /home1/veloximportscom/public_html/app/cidade/index.php on line 3
+[13-Jun-2023 15:29:17 America/Fortaleza] PHP Warning:  include(): Failed opening '/_layout/define.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/veloximportscom/public_html/app/cidade/index.php on line 3
+[13-Jun-2023 15:29:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_just_url() in /home1/veloximportscom/public_html/app/cidade/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/veloximportscom/public_html/app/cidade/index.php on line 11

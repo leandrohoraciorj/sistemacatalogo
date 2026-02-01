@@ -1,0 +1,42 @@
+[18-Sep-2023 14:47:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:47:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:47:35 America/Sao_Paulo] PHP Notice:  Undefined index: busca in /home1/veloximportscom/public_html/painel/_layout/sidebars.php on line 20
+[18-Sep-2023 14:47:35 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:47:35 America/Sao_Paulo] PHP Notice:  Undefined index: estabelecimento_id in /home1/veloximportscom/public_html/painel/horarios/index.php on line 26
+[18-Sep-2023 14:47:35 America/Sao_Paulo] PHP Notice:  Undefined index: nome in /home1/veloximportscom/public_html/painel/horarios/index.php on line 27
+[18-Sep-2023 14:47:35 America/Sao_Paulo] PHP Notice:  Undefined index: visible in /home1/veloximportscom/public_html/painel/horarios/index.php on line 28
+[18-Sep-2023 14:47:35 America/Sao_Paulo] PHP Notice:  Undefined index: status in /home1/veloximportscom/public_html/painel/horarios/index.php on line 29
+[18-Sep-2023 14:47:35 America/Sao_Paulo] PHP Notice:  Undefined index: pagina in /home1/veloximportscom/public_html/painel/horarios/index.php on line 42
+[18-Sep-2023 14:47:35 America/Sao_Paulo] PHP Notice:  Undefined variable: query in /home1/veloximportscom/public_html/painel/horarios/index.php on line 47
+[18-Sep-2023 14:47:47 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:47:47 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:47:47 America/Sao_Paulo] PHP Notice:  Undefined index: busca in /home1/veloximportscom/public_html/painel/_layout/sidebars.php on line 20
+[18-Sep-2023 14:47:47 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:47:47 America/Sao_Paulo] PHP Notice:  Undefined index: estabelecimento_id in /home1/veloximportscom/public_html/painel/horarios/index.php on line 26
+[18-Sep-2023 14:47:47 America/Sao_Paulo] PHP Notice:  Undefined index: nome in /home1/veloximportscom/public_html/painel/horarios/index.php on line 27
+[18-Sep-2023 14:47:47 America/Sao_Paulo] PHP Notice:  Undefined index: visible in /home1/veloximportscom/public_html/painel/horarios/index.php on line 28
+[18-Sep-2023 14:47:47 America/Sao_Paulo] PHP Notice:  Undefined index: status in /home1/veloximportscom/public_html/painel/horarios/index.php on line 29
+[18-Sep-2023 14:47:47 America/Sao_Paulo] PHP Notice:  Undefined index: pagina in /home1/veloximportscom/public_html/painel/horarios/index.php on line 42
+[18-Sep-2023 14:47:47 America/Sao_Paulo] PHP Notice:  Undefined variable: query in /home1/veloximportscom/public_html/painel/horarios/index.php on line 47
+[18-Sep-2023 14:50:52 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:50:52 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:50:52 America/Sao_Paulo] PHP Notice:  Undefined index: busca in /home1/veloximportscom/public_html/painel/_layout/sidebars.php on line 20
+[18-Sep-2023 14:50:52 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:50:52 America/Sao_Paulo] PHP Notice:  Undefined index: estabelecimento_id in /home1/veloximportscom/public_html/painel/horarios/index.php on line 26
+[18-Sep-2023 14:50:52 America/Sao_Paulo] PHP Notice:  Undefined index: nome in /home1/veloximportscom/public_html/painel/horarios/index.php on line 27
+[18-Sep-2023 14:50:52 America/Sao_Paulo] PHP Notice:  Undefined index: visible in /home1/veloximportscom/public_html/painel/horarios/index.php on line 28
+[18-Sep-2023 14:50:52 America/Sao_Paulo] PHP Notice:  Undefined index: status in /home1/veloximportscom/public_html/painel/horarios/index.php on line 29
+[18-Sep-2023 14:50:52 America/Sao_Paulo] PHP Notice:  Undefined index: pagina in /home1/veloximportscom/public_html/painel/horarios/index.php on line 42
+[18-Sep-2023 14:50:52 America/Sao_Paulo] PHP Notice:  Undefined variable: query in /home1/veloximportscom/public_html/painel/horarios/index.php on line 47
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Undefined index: busca in /home1/veloximportscom/public_html/painel/_layout/sidebars.php on line 20
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home1/veloximportscom/public_html/_core/_includes/functions/upload.php on line 619
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Undefined index: estabelecimento_id in /home1/veloximportscom/public_html/painel/horarios/index.php on line 26
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Undefined index: nome in /home1/veloximportscom/public_html/painel/horarios/index.php on line 27
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Undefined index: visible in /home1/veloximportscom/public_html/painel/horarios/index.php on line 28
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Undefined index: status in /home1/veloximportscom/public_html/painel/horarios/index.php on line 29
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Undefined index: pagina in /home1/veloximportscom/public_html/painel/horarios/index.php on line 42
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Undefined variable: query in /home1/veloximportscom/public_html/painel/horarios/index.php on line 47
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/horarios/index.php on line 77
+[18-Sep-2023 14:50:55 America/Sao_Paulo] PHP Notice:  Undefined index: msg in /home1/veloximportscom/public_html/painel/horarios/index.php on line 83
